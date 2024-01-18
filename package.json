@@ -1,0 +1,12 @@
+{
+  "name": "rafaelmartinez.com.br",
+  "version": "1.0.0",
+  "description": "Esse será o frontend meu site pessoal criado com Next e React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
